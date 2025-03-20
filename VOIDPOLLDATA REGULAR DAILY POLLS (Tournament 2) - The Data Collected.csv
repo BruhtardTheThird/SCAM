@@ -1,101 +1,104 @@
-VOID POLL DATA,Participant,Rank,Votes For,1st to 2nd,Total Votes,% of Votes,Date of OG Poll
-,A squad of Helldivers,32,5,1,10,50%,2025-01-13
-,Hideo Kojima,23,5,2,9,56%,2025-01-14
-,Sir Topham Hatt,40,4,1,9,44%,2025-01-15
-,Shadow the Hedgehog,14,6,3,10,60%,2025-01-16
-,"Mario, the Idea",76,3,1,9,33%,2025-01-16
-,Space Colony ARK,60,4,1,10,40%,2025-01-17
-,Samurai Jack,41,4,1,9,44%,2025-01-18
-,Great King of Evil Ganondorf,61,4,1,10,40%,2025-01-19
-,Silver the Hedgehog,35,5,1,11,45%,2025-01-21
-,Dr. Bowser,46,4,0,9,44%,2025-01-21
-,4 Glasses of Wine (3 Poisoned),47,4,0,9,44%,2025-01-21
-,TF2 Scout's Search History,30,5,2,10,50%,2025-01-22
-,Option 4,11,5,2,8,63%,2025-01-23
-,Spider Man,65,4,0,10,40%,2025-01-23
-,Mordecai and Rigby,66,4,0,10,40%,2025-01-23
-,Luigi,16,5,3,9,56%,2025-01-24
-,JackieTheMace with an AK47,6,8,5,11,73%,2025-01-25
-,Waluigi (with a Golf Club),4,7,5,9,78%,2025-01-26
-,Bob the Builder,12,5,2,8,63%,2025-01-27
-,Pepsiman,8,7,4,11,64%,2025-01-28
-,Mumbo Jumbo,89,3,0,11,27%,2025-01-29
-,Sans Undertale,90,3,0,11,27%,2025-01-29
-,Ronku D. Onkulous,91,3,0,11,27%,2025-01-29
-,A man in a forklift with a Pistol,62,4,1,10,40%,2025-01-30
-,Joe Biden,63,4,1,10,40%,2025-01-30
-,Man,26,6,1,11,55%,2025-01-31
-,Steve Harvey,36,5,1,11,45%,2025-02-01
-,Ryomen Sukuna,64,4,1,10,40%,2025-02-02
-,Louis Armstrong,67,4,0,10,40%,2025-02-03
-,Mecha-Godzilla,68,4,0,10,40%,2025-02-03
-,Solid Snake,17,5,3,9,56%,2025-02-04
-,LeBron James (with Death Note),2,10,9,12,83%,2025-02-05
-,Joseph Joestar,37,4,2,9,44%,2025-02-06
-,Dog from Duck Hunt,77,3,0,9,33%,2025-02-06
-,Stan Smith American Dad,78,3,0,9,33%,2025-02-06
-,Scrooge McDuck,18,5,3,9,56%,2025-02-07
-,Thomas the Tank Engine,48,4,0,9,44%,2025-02-08
-,TomSka,49,4,0,9,44%,2025-02-08
-,LucTheSlug w/ Crossbow,19,5,3,9,56%,2025-02-09
-,Joker Card (Balatro),33,4,0,8,50%,2025-02-10
-,Goku (with a Heart Virus),34,4,0,8,50%,2025-02-10
-,7 bald men with wood planks,3,7,6,9,78%,2025-02-11
-,Samuel L Jackson,74,4,0,11,36%,2025-02-12
-,Mug Root Beer,75,4,0,11,36%,2025-02-12
-,Kool-Aid Man,20,5,3,9,56%,2025-02-13
-,Surge the Tenrec,69,3,1,8,38%,2025-02-13
-,Bob the Tomato,42,4,1,9,44%,2025-02-14
-,A Dollar Bill (full legal name Dollar William),28,6,2,12,50%,2025-02-15
-,Sonic 3 vocoded to Megalovania,13,6,4,10,60%,2025-02-16
-,Penguins of Madagascar,29,6,2,12,50%,2025-02-17
-,A man in Convertible with 17 Empty Pizza Boxes,43,4,1,9,44%,2025-02-18
-,The Pope,92,2,0,8,25%,2025-02-19
-,Doomguy,93,2,0,8,25%,2025-02-19
-,Jon Arbuckle,94,2,0,8,25%,2025-02-19
-,Coconut Mall,95,2,0,8,25%,2025-02-19
-,Mees (with 3 Swords),1,6,5,7,86%,2025-02-20
-,Crash Bandicoot,54,3,0,7,43%,2025-02-20
-,Every Jeopardy Contestant Ever,55,3,0,7,43%,2025-02-20
-,The Lorax,56,3,0,7,43%,2025-02-21
-,Green Eggs and Ham,57,3,0,7,43%,2025-02-21
-,Kenny (South Park),21,5,3,9,56%,2025-02-22
-,Team Chaotix,44,4,1,9,44%,2025-02-23
-,Micheal Jackson,79,3,0,9,33%,2025-02-24
-,Glover,80,3,0,9,33%,2025-02-24
-,Donald Glover,81,3,0,9,33%,2025-02-24
-,Nicole Watterson,50,4,0,9,44%,2025-02-25
-,Annual Gorilla,51,4,0,9,44%,2025-02-25
-,Poisoned Pasta,86,2,0,7,29%,2025-02-26
-,Gordon Ramsay,87,2,0,7,29%,2025-02-26
-,"The Population of Rome, Italy",88,2,0,7,29%,2025-02-26
-,Queen Elizabeth,27,6,1,11,55%,2025-02-27
-,Popeye Infinite Spinach,25,6,3,11,55%,2025-02-28
-,Guy Fieri,38,4,2,9,44%,2025-03-01
-,Frank Sinatra,58,3,0,7,43%,2025-03-01
-,Frank Reynolds (Danny DeVito),59,3,0,7,43%,2025-03-01
-,Link (The Faces of Evil),82,3,0,9,33%,2025-03-01
-,A Link Cable,83,3,0,9,33%,2025-03-01
-,Bugs Bunny,22,5,3,9,56%,2025-03-02
-,Morshu,9,7,3,11,64%,2025-03-03
-,7 Nuclear Missile Strikes,45,4,1,9,44%,2025-03-04
-,Rathalos,52,3,1,7,43%,2025-03-05
-,Mewtwo (Genesect Movie),31,4,2,8,50%,2025-03-07
-,Rocket Raccoon,53,3,1,7,43%,2025-03-07
-,Super Mario 64 (the Game),70,3,1,8,38%,2025-03-07
-,Seth (Street Fighter),71,3,1,8,38%,2025-03-07
-,The Main Cast of JoJo Part 4,24,5,2,9,56%,2025-03-09
-,A really cool guy with a Trombone,7,6,4,9,67%,2025-03-10
-,Lou Albano,39,4,2,9,44%,2025-03-10
-,Cheetozard,15,4,1,7,57%,2025-03-11
-,Dr. Doofenshmirtz,10,5,3,8,63%,2025-03-12
-,Markiplier,5,6,4,8,75%,2025-03-13
-,Purple Guy,72,3,0,8,38%,2025-03-13
-,English Football Team (+ Crowd),73,3,0,8,38%,2025-03-13
-,Squidward,84,3,0,9,33%,2025-03-14
-,Mr. Krabs,85,3,0,9,33%,2025-03-14
-,Jonas 2(A genetically modified clone of Ronku),,4,2,6,67%,2025-03-15
-,Gru,,3,0,9,33%,2025-03-16
-,Dr. Robotnik,,3,0,9,33%,2025-03-16
-,The Moon,,3,0,9,33%,2025-03-16
-,,,,,,,2025-03-17
+VOID POLL DATA,Participant,Rank,Votes For,1st to 2nd,Total Votes,% of Votes,# of Battles Won,Date of OG Poll
+,A squad of Helldivers,32,5,1,10,50%,1,2025-01-13
+,Hideo Kojima,23,5,2,9,56%,1,2025-01-14
+,Sir Topham Hatt,40,4,1,9,44%,1,2025-01-15
+,Shadow the Hedgehog,14,6,3,10,60%,1,2025-01-16
+,"Mario, the Idea",76,3,1,9,33%,1,2025-01-16
+,Space Colony ARK,60,4,1,10,40%,1,2025-01-17
+,Samurai Jack,41,4,1,9,44%,1,2025-01-18
+,Great King of Evil Ganondorf,61,4,1,10,40%,1,2025-01-19
+,Silver the Hedgehog,35,5,1,11,45%,1,2025-01-21
+,Dr. Bowser,46,4,0,9,44%,1,2025-01-21
+,4 Glasses of Wine (3 Poisoned),47,4,0,9,44%,1,2025-01-21
+,TF2 Scout's Search History,30,5,2,10,50%,1,2025-01-22
+,Option 4,11,5,2,8,63%,1,2025-01-23
+,Spider Man,65,4,0,10,40%,1,2025-01-23
+,Mordecai and Rigby,66,4,0,10,40%,1,2025-01-23
+,Luigi,16,5,3,9,56%,1,2025-01-24
+,JackieTheMace with an AK47,6,8,5,11,73%,1,2025-01-25
+,Waluigi (with a Golf Club),4,7,5,9,78%,1,2025-01-26
+,Bob the Builder,12,5,2,8,63%,1,2025-01-27
+,Pepsiman,8,7,4,11,64%,1,2025-01-28
+,Mumbo Jumbo,89,3,0,11,27%,1,2025-01-29
+,Sans Undertale,90,3,0,11,27%,1,2025-01-29
+,Ronku D. Onkulous,91,3,0,11,27%,1,2025-01-29
+,A man in a forklift with a Pistol,62,4,1,10,40%,1,2025-01-30
+,Joe Biden,63,4,1,10,40%,1,2025-01-30
+,Man,26,6,1,11,55%,1,2025-01-31
+,Steve Harvey,36,5,1,11,45%,1,2025-02-01
+,Ryomen Sukuna,64,4,1,10,40%,1,2025-02-02
+,Louis Armstrong,67,4,0,10,40%,1,2025-02-03
+,Mecha-Godzilla,68,4,0,10,40%,1,2025-02-03
+,Solid Snake,17,5,3,9,56%,1,2025-02-04
+,LeBron James (with Death Note),2,10,9,12,83%,1,2025-02-05
+,Joseph Joestar,37,4,2,9,44%,1,2025-02-06
+,Dog from Duck Hunt,77,3,0,9,33%,1,2025-02-06
+,Stan Smith American Dad,78,3,0,9,33%,1,2025-02-06
+,Scrooge McDuck,18,5,3,9,56%,1,2025-02-07
+,Thomas the Tank Engine,48,4,0,9,44%,1,2025-02-08
+,TomSka,49,4,0,9,44%,1,2025-02-08
+,LucTheSlug w/ Crossbow,19,5,3,9,56%,1,2025-02-09
+,Joker Card (Balatro),33,4,0,8,50%,1,2025-02-10
+,Goku (with a Heart Virus),34,4,0,8,50%,1,2025-02-10
+,Seven Balding Men wielding planks of wood,3,7,6,9,78%,1,2025-02-11
+,Samuel L Jackson,74,4,0,11,36%,1,2025-02-12
+,Mug Root Beer,75,4,0,11,36%,1,2025-02-12
+,Kool-Aid Man,20,5,3,9,56%,1,2025-02-13
+,Surge the Tenrec,69,3,1,8,38%,1,2025-02-13
+,Bob the Tomato,42,4,1,9,44%,1,2025-02-14
+,A Dollar Bill (full legal name Dollar William),28,6,2,12,50%,1,2025-02-15
+,Sonic 3 vocoded to Megalovania,13,6,4,10,60%,1,2025-02-16
+,Penguins of Madagascar,29,6,2,12,50%,1,2025-02-17
+,A man in a Convertible with 17 Empty Pizza Boxes,43,4,1,9,44%,1,2025-02-18
+,The Pope,92,2,0,8,25%,1,2025-02-19
+,Doomguy,93,2,0,8,25%,1,2025-02-19
+,Jon Arbuckle,94,2,0,8,25%,1,2025-02-19
+,Coconut Mall,95,2,0,8,25%,1,2025-02-19
+,Mees (with 3 Swords),1,6,5,7,86%,1,2025-02-20
+,Crash Bandicoot,54,3,0,7,43%,1,2025-02-20
+,Every Jeopardy Contestant Ever,55,3,0,7,43%,1,2025-02-20
+,The Lorax,56,3,0,7,43%,1,2025-02-21
+,Green Eggs and Ham,57,3,0,7,43%,1,2025-02-21
+,Kenny (South Park),21,5,3,9,56%,1,2025-02-22
+,Team Chaotix,44,4,1,9,44%,1,2025-02-23
+,Micheal Jackson,79,3,0,9,33%,1,2025-02-24
+,Glover,80,3,0,9,33%,1,2025-02-24
+,Donald Glover,81,3,0,9,33%,1,2025-02-24
+,Nicole Watterson,50,4,0,9,44%,1,2025-02-25
+,Annual Gorilla,51,4,0,9,44%,1,2025-02-25
+,Poisoned Pasta,86,2,0,7,29%,1,2025-02-26
+,Gordon Ramsay,87,2,0,7,29%,1,2025-02-26
+,"The Population of Rome, Italy",88,2,0,7,29%,1,2025-02-26
+,Queen Elizabeth,27,6,1,11,55%,1,2025-02-27
+,Popeye Infinite Spinach,25,6,3,11,55%,1,2025-02-28
+,Guy Fieri,38,4,2,9,44%,1,2025-03-01
+,Frank Sinatra,58,3,0,7,43%,1,2025-03-01
+,Frank Reynolds (Danny DeVito),59,3,0,7,43%,1,2025-03-01
+,Link (The Faces of Evil),82,3,0,9,33%,1,2025-03-01
+,A Link Cable,83,3,0,9,33%,1,2025-03-01
+,Bugs Bunny,22,5,3,9,56%,1,2025-03-02
+,Morshu,9,7,3,11,64%,1,2025-03-03
+,7 Nuclear Missile Strikes,45,4,1,9,44%,1,2025-03-04
+,Rathalos,52,3,1,7,43%,1,2025-03-05
+,Mewtwo (Genesect Movie),31,4,2,8,50%,1,2025-03-07
+,Rocket Raccoon,53,3,1,7,43%,1,2025-03-07
+,Super Mario 64 (the Game),70,3,1,8,38%,1,2025-03-07
+,Seth (Street Fighter),71,3,1,8,38%,1,2025-03-07
+,The Main Cast of JoJo Part 4,24,5,2,9,56%,1,2025-03-09
+,A really cool guy with a Trombone,7,6,4,9,67%,1,2025-03-10
+,Lou Albano,39,4,2,9,44%,1,2025-03-10
+,Cheetozard,15,4,1,7,57%,1,2025-03-11
+,Dr. Doofenshmirtz,10,5,3,8,63%,1,2025-03-12
+,Markiplier,5,6,4,8,75%,1,2025-03-13
+,Purple Guy,72,3,0,8,38%,1,2025-03-13
+,English Football Team (+ Crowd),73,3,0,8,38%,1,2025-03-13
+,Squidward,84,3,0,9,33%,1,2025-03-14
+,Mr. Krabs,85,3,0,9,33%,1,2025-03-14
+,Jonas 2(A genetically modified clone of Ronku),,4,2,6,67%,1,2025-03-15
+,Gru,,3,0,9,33%,1,2025-03-16
+,Dr. Robotnik,,3,0,9,33%,1,2025-03-16
+,The Moon,,3,0,9,33%,1,2025-03-16
+,Medic (TF2),,3,1,8,38%,1,2025-03-17
+,YouTube Demonitization,,4,2,9,44%,1,2025-03-18
+,Willy Wonka,,,,,,,2025-03-19
+,,,,,,,,2025-03-20
